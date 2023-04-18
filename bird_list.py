@@ -12,3 +12,7 @@ print("The index of the second object of the birds list is: ", birds.index("Mult
 birds.append("Chlorochrysa nitidissima")
 print()
 print(birds)
+del birds[3]
+print(birds)
+print()
+print(birds[2:5])

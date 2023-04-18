@@ -7,6 +7,8 @@ weight = 8.5
 wings = 2
 migration = False
 
+print("The type of the object is: ", type(name))
+print()
 print("The scientific name of this bird is: ", scientific_name)
 print()
 print("The english name of this bird is: ", name)
